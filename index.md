@@ -4,5 +4,7 @@ title: Home
 ---
 
 <div class="centered-gif">
-    ![](/images/lnb.gif)
+
+![gif](/images/lnb.gif)
+
 </div>
