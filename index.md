@@ -4,5 +4,5 @@ title: Student Blog
 ---
 
 <div class="centered-gif">
-    ![labnb](/images/lnb.gif)
+    ![](/images/lnb.gif)
 </div>
