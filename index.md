@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-<div class="centered-gif">
-
-![gif](/images/lnb.gif)
-
+<div style="display: flex; justify-content: center ; align-items: center;">
+    ![gif](/images/lnb.gif)
 </div>
