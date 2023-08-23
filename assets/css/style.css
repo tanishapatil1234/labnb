@@ -39,8 +39,3 @@ h1, h2, h3 {
     justify-content: center;
     align-items: center;
 }
-
-.centered-gif img {
-    max-width: 100%;
-    max-height: 100%;
-}
