@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 
-![gif](/images/lnb.gif)
+![gif](/images/banner.gif)
