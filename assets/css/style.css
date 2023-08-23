@@ -1,6 +1,6 @@
 
 .site-nav {
-    background-color: #333; 
+    background-color: #0097B2; 
     padding: 10px 0;
 }
 
@@ -9,6 +9,7 @@
     margin: 0; 
     padding: 0; 
     display: flex; 
+    justify-content: center; 
 }
 
 .site-nav li {
@@ -18,10 +19,11 @@
 .site-nav a { 
     text-decoration: none;
     color: white; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
 }
 
 
 .site-nav a:hover {
-    color: #ff9900; 
+    color: #69C4D4; 
 }

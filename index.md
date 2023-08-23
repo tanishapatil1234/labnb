@@ -3,4 +3,4 @@ layout: default
 title: Student Blog
 ---
 
-# Tanisha's Blog
+![labnb](/images/lnb.gif)
