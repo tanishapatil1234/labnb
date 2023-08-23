@@ -10,8 +10,10 @@
       <nav class="site-nav">
         <ul>
           <li><a href="{{ site.baseurl }}/">{{ site.title }}</a></li>
-          {% for page in site.pages %} 
+          {% for page in site.pages %}
+            {% unless page.title contains 'Computer Science "A"' or page.title contains 'Computer Science Principles' or page.title contains 'Computer Science and Software Engineering'} 
             <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+            {% endunless %}
           {% endfor %}
         </ul>
     </header>
