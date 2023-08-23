@@ -3,6 +3,6 @@ layout: default
 title: Student Blog
 ---
 
-<div style="text-slign: center;">
+<div class="centered-gif">
     ![labnb](/images/lnb.gif)
 </div>
